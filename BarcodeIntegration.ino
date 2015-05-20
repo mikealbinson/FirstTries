@@ -1,3 +1,7 @@
+//By Michael Albinson
+//Barcode string integration using only the arduino BLE sheild (only currently using three example barcode strings
+//this could fairly easily be expanded
+
 // include the necesary RBL setup files
 #include <SPI.h>
 #include <boards.h>
